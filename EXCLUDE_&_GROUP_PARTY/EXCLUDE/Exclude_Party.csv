@@ -1,0 +1,17 @@
+﻿ExcludStartMonth,sales_channel_code,PARTY_ID,party_number,customer_id,location,party_name,customer_class_code,EffectiveStockValue,EffectiveStock,Balance,PercentOnReceivable,Rebate1,Rebate2,TotalRebate,Comments
+1-Sep-24,MARCEL DISTRIBUTOR,2925747,208502,2602016,Electronics,Lamia Store-Rajapur,EXCLUSIVE,88122,3,-16382.7,-537.8976603,0,1.5,1.5,Stock qty is low
+2-Sep-24,MARCEL DISTRIBUTOR,3530767,245954,3070026,Electronics,M/S Bhuiya Electronics-Tazumuddin,EXCLUSIVE,152463,5,-99032.05,-153.9531394,0,1.5,1.5,Stock qty is low
+3-Sep-24,MARCEL DISTRIBUTOR,3399766,242454,2981026,Electronics,M/S Lubna Electronics-Dularhat,EXCLUSIVE,157191,6,-34922.56,-450.1125347,0,1.5,1.5,Stock qty is low
+4-Sep-24,MARCEL DISTRIBUTOR,347544,98534,299405,Electronics,Hridoy Enterprise-Wzirpur,EXCLUSIVE,307280,22,-22028.56,-1394.915581,0,1.5,1.5,Below 5 Lac Stock Given
+6-Sep-24,MARCEL DISTRIBUTOR,3019759,220257,2670039,Electronics,M/S Alamgir Electronics-Charfesson,EXCLUSIVE,330655,11,303318.12,109.0126269,0,1.5,1.5,Below 5 Lac Stock Given
+7-Sep-24,MARCEL DISTRIBUTOR,2936796,210807,2609014,Electronics,M/S Jamal Enterprise-Mehendiganj,EXCLUSIVE,373801.835,13,861231.56,43.40317429,0,0.65,0.65,Below 5 Lac Stock Given
+8-Sep-24,MARCEL DISTRIBUTOR,560510,134834,521873,Electronics,Sunmoon Gift House-Matiranga,EXCLUSIVE,381648,40,27959.47,1365.005033,0,1.5,1.5,Below 5 Lac Stock Given
+9-Sep-24,MARCEL DISTRIBUTOR,3046757,222451,2691029,Electronics,Bondhu Electronics-Daulatpur,EXCLUSIVE,393848,13,-20195.39,-1950.18779,0,1.5,1.5,Below 5 Lac Stock Given
+10-Sep-24,MARCEL DISTRIBUTOR,369272,114065,316591,Electronics,Tarek Electronics-Gaffargaon,EXCLUSIVE,397556,15,358814.31,110.7971621,0,1.5,1.5,Below 5 Lac Stock Given
+11-Sep-24,MARCEL DISTRIBUTOR,374138,116344,321722,Electronics,Ariyan Enterprise-Mymensingh,EXCLUSIVE,474958.3436,48,1226103.08,38.73722783,0,0.5,0.5,Below 5 Lac Stock Given
+12-Sep-24,MARCEL DISTRIBUTOR,1935731,180340,1765989,Electronics,Smart Electronics and Furniture-Faridgonj,EXCLUSIVE,487557.3244,29,674697.27,72.26312394,0,1.1,1.1,Below 5 Lac Stock Given
+13-Sep-24,WALTON DISTRIBUTOR,2524740,198293,2290026,Electronics,Khan Plaza Electronics-Tarakanda,EXCLUSIVE,114183,3,-4330.79,-2636.534027,0,1.5,1.5,Stock qty is low
+14-Sep-24,WALTON DISTRIBUTOR,372363,115204,320053,Electronics,Andarmanik Electronics-Hizla,EXCLUSIVE,148644,33,-88069.74,-168.7798937,0,1.5,1.5,Below 5 Lac Stock Given
+15-Sep-24,WALTON DISTRIBUTOR,1928760,180189,1761014,Electronics,Kuasha Enterprise-Durgapur,EXCLUSIVE,176585,66,-12169.15,-1451.089517,0,1.5,1.5,Below 5 Lac Stock Given
+16-Sep-24,WALTON DISTRIBUTOR,1920734,179806,1752004,Electronics,Sorna Electronics-Gabtoli,EXCLUSIVE,352493,13,1453.35,24253.80962,0,1.5,1.5,Below 5 Lac Stock Given
+17-Sep-24,WALTON DISTRIBUTOR,31442,18635,2388,Electronics,M/S Al haj Enterprise-Singra,EXCLUSIVE,426887,20,172336.11,247.7059568,0,1.5,1.5,Below 5 Lac Stock Given
